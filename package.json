@@ -2,7 +2,7 @@
   "name": "timer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexgarashchuk.github.io/Timer/",
+  "homepage": "https://AlexGarashchuk.github.io/Timer/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

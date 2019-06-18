@@ -11,10 +11,11 @@ for (let i = 0; i < arrLength; i++) {
 function LoopThroughSplittedText(arr) {
   for (let i = 0; i < arr.length; i++) {
     (function (i) {
-      //500 это скорость 500ms для одной цыфры 
-      let a = 500/ arr.length;
+      
+      let a = 500/ arr.length; //step
 
       let b = (100+a*i)*i
+      
       // console.log(a)
       // console.log(b)
       setTimeout(() =>{
